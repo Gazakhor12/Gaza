@@ -15,7 +15,7 @@ module.exports.config = {
   name: "jan",
   version: "0.0.4",
   permission: 0,
-  prefix:.,
+  prefix:false,
   credits: "Nayan",
   description: "talk with bot",
   category: "user",
